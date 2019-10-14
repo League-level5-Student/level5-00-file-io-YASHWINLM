@@ -1,0 +1,4 @@
+task
+MAKE food
+clean garage
+go to sleep
